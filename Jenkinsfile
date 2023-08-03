@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_REGISTRY = 'https://hub.docker.com/'
+        DOCKER_REGISTRY = 'https://hub.docker.com/u/tusharnayak1515'
         DOCKER_IMAGE_TAG = 'latest'
     }
 
